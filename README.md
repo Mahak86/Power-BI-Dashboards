@@ -21,3 +21,25 @@ Sales Metrics: Price per unit, units sold, total sales, operating profit, and op
 - Open it in Power BI Desktop.  
 - Explore insights and visualizations.  
 
+
+#🍽️ Swiggy Analytics Dashboard 📊
+
+ 🔍 Overview  
+This Swiggy Analytics Dashboard helps analyze restaurant performance, customer trends, and delivery services.
+
+ 📊 Key Features  
+Total Restaurants & Cuisine Count
+Average Ratings & Top 5 Restaurants  
+Online vs. Offline Delivery Trends  
+City-Wise Restaurant Distribution  
+
+📂 Files   
+- 📷 [Dashboard Screenshot](![image](https://github.com/user-attachments/assets/e5393bd2-89e8-4d47-aff8-b99ed2eba48c)
+)  
+
+🚀 How to Use  
+1. Download the `.pbix` file from this repo.  
+2. open it in Power BI Desktop.  
+3. Explore insights with interactive filters & visuals.  
+
+
