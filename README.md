@@ -35,8 +35,8 @@ Online vs. Offline Delivery Trends
 City-Wise Restaurant Distribution  
 
 📂 Files   
-- 📷 [Dashboard Screenshot](![image](https://github.com/user-attachments/assets/e5393bd2-89e8-4d47-aff8-b99ed2eba48c)
-)  
+- 📷 [Dashboard Screenshot]![image](https://github.com/user-attachments/assets/e5393bd2-89e8-4d47-aff8-b99ed2eba48c)
+ 
 
 🚀 How to Use  
 1. Download the `.pbix` file from this repo.  
